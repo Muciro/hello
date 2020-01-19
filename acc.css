@@ -1,0 +1,26 @@
+body{
+	margin: 0px;
+	paddin: 0px;
+
+}
+#un,#deux{
+	display: flex;
+	justify-content: space-around;
+	background-color: black;
+	height: 50px;
+	width: auto;
+	align-items: center;
+	border-top: 0px;
+}
+#un a{
+	color: white;
+	text-decoration: none;
+}
+#deux{
+	background-color: white;
+
+}
+#deux a{
+	color: black;
+	text-decoration: none;
+}
